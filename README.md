@@ -23,4 +23,4 @@ ETH Address : 0x7b104343c449d71066cbd1bf9608f5c986c9204f
 
 SOL Address : 8KhQ1SyvTtzSemDPG2Dn8yUqY6Jg1f6RRnNMy7CWP14j
 
-TRC Address : TL1WKi2FZKmLgrMFioiUdE2sGzrGMcFtiG
+TRC Address : TTNxjYTbVyCjdGPYdt8pAuFu7y89nb9mMA
