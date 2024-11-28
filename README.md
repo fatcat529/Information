@@ -1,15 +1,10 @@
-# My Information
-https://drive.google.com/file/d/1BaKYLL4aDBMBtPmBm8AL7NEPCN_rwOYd/view?usp=sharing
+# Wallet
+ETH Address : 0xEBD2A7DAdD79CEA500bBf14317Eb441527EFdb6f
 
-# Authenticator
-https://drive.google.com/file/d/1c4A6bFwlHvVqX0e7oiTsZKm4rzfZZ3cx/view?usp=sharing
+SOL Address : 5LLbCUU5EnYDJaHqHEP4c1YbCJe5VsEemt8r2Qqd9bKn
 
-# Backup
-https://drive.google.com/file/d/1pWdGCY4CZRhT2d6HrhMk6tamBGIMH82S/view?usp=sharing
+BTC Address : bc1qln5sp3dfrtdfwh2vef24gh0vvdrn5xxvv9aclk
 
-# OKX-Wallet
-ETH Address : 0x7b104343c449d71066cbd1bf9608f5c986c9204f
+BASE Address : 0xEBD2A7DAdD79CEA500bBf14317Eb441527EFdb6f
 
-SOL Address : 8KhQ1SyvTtzSemDPG2Dn8yUqY6Jg1f6RRnNMy7CWP14j
-
-TRC Address : TTNxjYTbVyCjdGPYdt8pAuFu7y89nb9mMA
+POL Address : 0xEBD2A7DAdD79CEA500bBf14317Eb441527EFdb6f
