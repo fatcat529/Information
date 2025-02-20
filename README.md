@@ -8,3 +8,14 @@ BTC Address : bc1qln5sp3dfrtdfwh2vef24gh0vvdrn5xxvv9aclk
 BASE Address : 0xEBD2A7DAdD79CEA500bBf14317Eb441527EFdb6f
 
 POL Address : 0xEBD2A7DAdD79CEA500bBf14317Eb441527EFdb6f
+
+# MEXC
+ETH Address : 0x507f17bb24b812955d8f7f94ca086dcb8709e2eb
+
+BSC Address : 0x507f17bb24b812955d8f7f94ca086dcb8709e2eb
+
+TRX Address : TGs5zzxfibN4ZDyVwJrQSsodSZM32QaBSp
+
+SOL Address : 93bfdpWF7PoJRgFx5Zsv8HqxijfsAkxmgFYMBFNQBYJz
+
+BTC Address : 3KffetNtJ89BgRVCuroefu2Df2tNehciGH
